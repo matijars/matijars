@@ -7,8 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass)](https://skillicons.dev) &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=angular,react)](https://skillicons.dev)  &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)  &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) 
 
 **Socials:**
-
-[![LinkedIn](src="[https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg)")(https://www.linkedin.com/in/matija-milosevic)
+[![LinkedIn](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg)](https://www.linkedin.com/in/matija-milosevic)
 
 <!--
 **matijars/matijars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
