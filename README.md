@@ -4,7 +4,7 @@
 
 **Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 <!--
 **matijars/matijars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
