@@ -4,14 +4,7 @@
 
 **Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)     [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-    <p></p>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) space&nbsp;&nbsp;    [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 <!--
 **matijars/matijars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
