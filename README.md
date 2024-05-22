@@ -8,9 +8,9 @@
 
 <h3>Socials:</h3>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/matija-milosevic" target="_blank">
-    <img style="margin-left: -10px;" src="https://ime.westwebart.pro/wp-content/uploads/2021/10/tt3.png" alt="LinkedIn" width="100px">
+<div>
+  <a href="https://www.linkedin.com/in/matija-milosevic">
+    <img src="https://ime.westwebart.pro/wp-content/uploads/2021/10/tt3.png" alt="LinkedIn" width="100px">
   </a>
 </div>
 
