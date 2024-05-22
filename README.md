@@ -9,9 +9,8 @@
 <h3>Socials:</h3>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-
   <a href="https://www.linkedin.com/in/matija-milosevic">
-    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn" width="100px">
+    <img style="margin-left: -10px; src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn" width="100px">
   </a>
 </div>
 
