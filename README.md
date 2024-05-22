@@ -2,8 +2,8 @@
 
 🌍 I am a Frontend Developer based in Niš, Serbia.
 
-<h2>Skills:</h>
-
+<h4>Skills:</4>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass)](https://skillicons.dev) &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=angular,react)](https://skillicons.dev)  &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)  &nbsp; &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) 
 
 
