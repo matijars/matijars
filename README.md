@@ -13,14 +13,6 @@
   <a href="https://www.linkedin.com/in/matija-milosevic">
     <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn" width="100px">
   </a>
-  &nbsp; &nbsp;
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" alt="Twitter" width="100px">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://github.com/yourprofile">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="100px">
-  </a>
 </div>
 
 <!--
