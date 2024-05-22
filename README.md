@@ -8,23 +8,18 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" />
   </a>
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass" alt="Bootstrap, Tailwind, Sass" />
   </a>
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript, TypeScript" />
   </a>
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react" alt="Angular, React" />
   </a>
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
   </a>
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </a>
